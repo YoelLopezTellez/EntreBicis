@@ -6,7 +6,7 @@ A més, inclou funcionalitats de verificació de rutes per garantir que els reco
 
 El projecte està desenvolupat amb un backend en Java i un frontend en Kotlin amb Jetpack Compose, seguint els estàndards moderns de desenvolupament per a aplicacions mòbils.
 
-
+<br><br>
 ## 📱 Funcionalitats principals
 
 - **Registre de rutes amb GPS**: Els usuaris poden iniciar i finalitzar rutes, que s’enregistren automàticament.
