@@ -21,7 +21,7 @@ El projecte està desenvolupat amb un backend en Java i un frontend en Kotlin am
 - **Mapa interactiu**: Visualització de les rutes en un mapa amb zoom i consulta de punts.
 - **Frontend Android en català**: Interfície moderna i atractiva, seguint Material Design.
 
-
+<br><br>
 ## 🧑‍💻 Tecnologies utilitzades
 
 ### Backend
@@ -39,7 +39,7 @@ El projecte està desenvolupat amb un backend en Java i un frontend en Kotlin am
 - **Material Design**
 - **Navegació amb components moderns**
 
-
+<br><br>
 ## 🖼️ Captures de pantalla
 
 ### Pantalla de ruta en curs
@@ -53,12 +53,12 @@ El projecte està desenvolupat amb un backend en Java i un frontend en Kotlin am
 
 > 📸 Les imatges es poden substituir per captures reals de l'app quan estiguin disponibles.
 
-
+<br><br>
 ## 🎥 Vídeo de demostració
 
 📺 [Veure vídeo de presentació (en català)](enllaç_al_video)
 
-
+<br><br>
 ## 📄 Documentació
 
 - **[Memòria del projecte (PDF)](enllaç_memoria.pdf)**
