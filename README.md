@@ -56,13 +56,13 @@ El projecte està desenvolupat amb un backend en Java i un frontend en Kotlin am
 <br><br>
 ## 🎥 Vídeo de demostració
 
-📺 [Veure vídeo de presentació (en català)](enllaç_al_video)
+📺 [Veure vídeo de presentació (en català)](https://drive.google.com/file/d/12OXJbUOP_mFEEN2-G7enPdad6RWxxcwq/view?usp=sharing)
 
 <br><br>
 ## 📄 Documentació
 
 - **[Memòria del projecte (PDF)](enllaç_memoria.pdf)**
-- **[Codi font](https://github.com/usuari/EntreBicis)**
+- **[Codi font](https://gitlab.com/ylopez7/entrebicis)**
 
 ---
 
