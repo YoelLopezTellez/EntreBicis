@@ -52,29 +52,29 @@ El projecte està desenvolupat amb un backend en Java i un frontend en Kotlin am
     </td>
     <td align="center">
       <img src="screenshots/RecuperarContraseña.PNG" width="180"/><br>
-      <sub>Recuperar contrasenya</sub>
+      <sub>Recuperar Contrasenya</sub>
     </td>
     <td align="center">
       <img src="screenshots/ElMeuPerfil.PNG" width="180"/><br>
-      <sub>El meu perfil</sub>
+      <sub>El Meu Perfil</sub>
     </td>
     <td align="center">
       <img src="screenshots/EditarPerfil.PNG" width="180"/><br>
-      <sub>Editar perfil</sub>
+      <sub>Editar Perfil</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="screenshots/LesMevesRutes.PNG" width="180"/><br>
-      <sub>Les meves rutes</sub>
+      <sub>Les Meves Rutes</sub>
     </td>
     <td align="center">
       <img src="screenshots/RutaIniciada.PNG" width="180"/><br>
-      <sub>Iniciar ruta</sub>
+      <sub>Iniciar Ruta</sub>
     </td>
     <td align="center">
       <img src="screenshots/LesMevesReserves.PNG" width="180"/><br>
-      <sub>Les meves recompenses</sub>
+      <sub>Les Meves Recompenses</sub>
     </td>
     <td align="center">
       <img src="screenshots/Recompenses.PNG" width="180"/><br>
@@ -84,19 +84,19 @@ El projecte està desenvolupat amb un backend en Java i un frontend en Kotlin am
   <tr>
     <td align="center">
       <img src="screenshots/DetallRecompensa.PNG" width="180"/><br>
-      <sub>Detall recompensa</sub>
+      <sub>Detall Recompensa</sub>
     </td>
     <td align="center">
       <img src="screenshots/ReservarRecompensa.PNG" width="180"/><br>
-      <sub>Reservar recompensa</sub>
+      <sub>Reservar Recompensa</sub>
     </td>
     <td align="center">
       <img src="screenshots/PuntDeBescanvi.PNG" width="180"/><br>
-      <sub>Punt de bescanvi</sub>
+      <sub>Punt de Bescanvi</sub>
     </td>
     <td align="center">
       <img src="screenshots/DetallsPuntBescanvi.PNG" width="180"/><br>
-      <sub>Detalls punt bescanvi</sub>
+      <sub>Detalls Punt Bescanvi</sub>
     </td>
   </tr>
 </table>
