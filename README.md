@@ -112,7 +112,7 @@ El projecte està desenvolupat amb un backend en Java i un frontend en Kotlin am
 <br><br>
 ## 📄 Codi Font i Documentació (Repositori Privat)
 
-- **[Codi font i Documentació](https://gitlab.com/ylopez7/entrebicis)**
+- [Codi font i Documentació](https://gitlab.com/ylopez7/entrebicis)
 
 ---
 
