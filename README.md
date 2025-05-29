@@ -42,16 +42,69 @@ El projecte està desenvolupat amb un backend en Java i un frontend en Kotlin am
 <br><br>
 ## 🖼️ Captures de pantalla
 
-### Pantalla de ruta en curs
-![Ruta en curs](screenshots/ruta_en_curs.png)
+### Vista general de l'app
 
-### Pantalla de recompenses
-![Recompenses](screenshots/recompenses.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Login.PNG" width="200"/><br>
+      <sub>Login</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/RecuperarContraseña.PNG" width="200"/><br>
+      <sub>Recuperar contrasenya</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/ElMeuPerfil.PNG" width="200"/><br>
+      <sub>El meu perfil</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/EditarPerfil.PNG" width="200"/><br>
+      <sub>Editar perfil</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/LesMevesRutes.PNG" width="200"/><br>
+      <sub>Les meves rutes</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/RutaIniciada.PNG" width="200"/><br>
+      <sub>Ruta iniciada</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/LesMevesReserves.PNG" width="200"/><br>
+      <sub>Les meves reserves</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/Recompenses.PNG" width="200"/><br>
+      <sub>Recompenses</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/DetallRecompensa.PNG" width="200"/><br>
+      <sub>Detall recompensa</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/ReservarRecompensa.PNG" width="200"/><br>
+      <sub>Reservar recompensa</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/PuntDeBescanvi.PNG" width="200"/><br>
+      <sub>Punt de bescanvi</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/DetallsPuntBescanvi.PNG" width="200"/><br>
+      <sub>Detalls punt de bescanvi</sub>
+    </td>
+  </tr>
+</table>
 
-### Pantalla de detalls de la ruta
-![Detalls ruta](screenshots/detalls_ruta.png)
+> 📸 Aquestes captures són de l'app real en funcionament.
 
-> 📸 Les imatges es poden substituir per captures reals de l'app quan estiguin disponibles.
 
 <br><br>
 ## 🎥 Vídeo de demostració
