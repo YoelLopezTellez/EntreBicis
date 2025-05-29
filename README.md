@@ -11,7 +11,6 @@ El projecte està desenvolupat amb un backend en Java i un frontend en Kotlin am
 
 - **Registre de rutes amb GPS**: Els usuaris poden iniciar i finalitzar rutes, que s’enregistren automàticament.
 - **Validació de rutes**: Un administrador valida les rutes perquè es transformin en punts de saldo.
-- **Conversió de quilòmetres a punts**: Cada km recorregut equival a 1 punt. Els punts poden ser fraccionaris.
 - **Sistema de recompenses**:
   - Crear recompenses (nom i ubicació).
   - Reservar i recollir recompenses.
