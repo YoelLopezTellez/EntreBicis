@@ -70,11 +70,11 @@ El projecte està desenvolupat amb un backend en Java i un frontend en Kotlin am
     </td>
     <td align="center">
       <img src="screenshots/RutaIniciada.PNG" width="180"/><br>
-      <sub>Ruta iniciada</sub>
+      <sub>Iniciar ruta</sub>
     </td>
     <td align="center">
       <img src="screenshots/LesMevesReserves.PNG" width="180"/><br>
-      <sub>Les meves reserves</sub>
+      <sub>Les meves recompenses</sub>
     </td>
     <td align="center">
       <img src="screenshots/Recompenses.PNG" width="180"/><br>
